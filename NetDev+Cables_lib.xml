@@ -148,5 +148,10 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"MES2124F\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/Eltex/MES2124F.png;aspect=fixed;labelPosition=center;align=left;points=[[0.203,1,0,0,0],[0.265,0,0,0,0],[0.265,1,0,0,0],[0.311,0,0,0,0],[0.311,1,0,0,0],[0.361,0,0,0,0],[0.361,1,0,0,0],[0.406,0,0,0,0],[0.406,1,0,0,0],[0.455,0,0,0,0],[0.455,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.55,0,0,0,0],[0.55,1,0,0,0],[0.595,0,0,0,0],[0.595,1,0,0,0],[0.644,0,0,0,0],[0.644,1,0,0,0],[0.69,0,0,0,0],[0.69,1,0,0,0],[0.74,0,0,0,0],[0.74,1,0,0,0],[0.784,0,0,0,0],[0.784,1,0,0,0],[0.82,0,0,4,0],[0.82,1,0,4,0],[0.86,0,0,3,0],[0.86,1,0,3,0],[0.911,0,0,0,0],[0.911,1,0,0,0],[0.961,0,0,0,0],[0.961,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"217\" height=\"21\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 217,
     "h": 21
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"S2982G-24TE\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/SNR/S2982G-24TE.png;aspect=fixed;labelPosition=center;align=left;points=[[0.03,0,0,2,0],[0.03,1,0,2,0],[0.07,0,0,1,0],[0.07,1,0,1,0],[0.1,0,0,1,0],[0.1,1,0,1,0],[0.14,0,0,0,0],[0.14,1,0,0,0],[0.17,0,0,1,0],[0.17,1,0,1,0],[0.2,0,0,2,0],[0.2,1,0,2,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.28,0,0,1,0],[0.28,1,0,1,0],[0.31,0,0,2,0],[0.31,1,0,2,0],[0.34,0.02,0,3,0],[0.34,1,0,3,0],[0.38,0,0,1,0],[0.38,1,0,1,0],[0.41,0.02,0,2,0],[0.41,1,0,2,0],[0.48,1,0,0,0],[0.52,1,0,0,0],[0.56,1,0,1,0],[0.61,1,0,0,0],[0.65,1,0,1,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"221\" height=\"21\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 221,
+    "h": 21
   }
 ]</mxlibrary>
