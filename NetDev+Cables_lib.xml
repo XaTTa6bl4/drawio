@@ -35,6 +35,13 @@
     "title": "CCR2004-1G-12S+2XS"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"CCR2116-12G-4S+\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/MikroTik/CCR2116-12G-4S+.jpg;aspect=fixed;labelPosition=center;align=left;points=[[0.035,0],[0.068,0],[0.602,0],[0.04,1],[0.072,1],[0.118,1],[0.157,1],[0.195,1],[0.233,1],[0.28,1],[0.318,1],[0.356,1],[0.395,1],[0.442,1],[0.481,1],[0.519,1],[0.557,1],[0.603,1]]\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"5.684341886080802e-14\" width=\"215\" height=\"22\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 214.99999999999997,
+    "h": 22,
+    "aspect": "fixed",
+    "title": "CCR2116-12G-4S+"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"RB1100AHx4\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/MikroTik/RB1100AHx4.jpg;aspect=fixed;labelPosition=center;align=left;points=[[0.047,1],[0.087,1],[0.127,1],[0.165,1],[0.205,1],[0.253,1],[0.292,1],[0.332,1],[0.372,1],[0.412,1],[0.468,1],[0.503,1],[0.543,1],[0.602,1]]\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.842170943040401e-14\" width=\"221\" height=\"22\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 221,
     "h": 22,
@@ -131,6 +138,13 @@
     "h": 23,
     "aspect": "fixed",
     "title": "WS-C4948"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"ES3552M\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/Edge-Core/ES3552M.jpg;aspect=fixed;labelPosition=center;align=left;points=[[0,0.5],[0.028,0],[0.061,0],[0.093,0],[0.125,0],[0.157,0],[0.189,0],[0.233,0],[0.265,0],[0.296,0],[0.328,0],[0.36,0],[0.391,0],[0.435,0],[0.467,0],[0.498,0],[0.53,0],[0.562,0],[0.591,0],[0.636,0],[0.668,0],[0.7,0],[0.731,0],[0.763,0],[0.795,0],[0.836,0],[0.874,0],[0.912,0],[0.952,0],[0.028,1],[0.061,1],[0.093,1],[0.125,1],[0.157,1],[0.189,1],[0.233,1],[0.265,1],[0.296,1],[0.328,1],[0.36,1],[0.391,1],[0.435,1],[0.467,1],[0.498,1],[0.53,1],[0.562,1],[0.591,1],[0.636,1],[0.668,1],[0.7,1],[0.731,1],[0.763,1],[0.795,1],[0.836,1],[0.874,1],[0.912,1],[0.952,1]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"-2.842170943040401e-14\" width=\"246\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 246,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "ES3552M"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"T2600G-18TS\" style=\"shape=image;verticalLabelPosition=top;verticalAlign=bottom;imageAspect=0;image=https://raw.githubusercontent.com/XaTTa6bl4/drawio/master/img/TP-Link/T2600G-18TS.png;aspect=fixed;points=[[0.42,1,0,3,0],[0.44,0,0,14,0],[0.48,0,0,13,0],[0.5,1,0,2,0],[0.52,0,0,11,0],[0.53,1,0,2,0],[0.56,0,0,10,0],[0.57,1,0,0,0],[0.59,0,0,13,0],[0.6,1,0,1,0],[0.64,0,0,10,0],[0.65,1,0,1,0],[0.67,0,0,10,0],[0.69,1,0,0,0],[0.71,0,0,8,0],[0.72,1,0,0,0],[0.75,1,0,0,0],[0.8,1,0,0,0],[0.85,1,0,0,0]];labelPosition=center;align=left;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"215\" height=\"21\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
